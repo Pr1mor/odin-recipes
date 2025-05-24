@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+}
+
+.title {
+	background-color: #75cbf4;
+	margin: 10px;
+	text-align: center;
+	padding: 10px;
+}
+
+ul,
+ol {
+	list-style-type: none;
+}
+
+.home-list {
+	background-color: #e2f5ff;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+}
+
+.home-list-item {
+	margin-bottom: 20px;
+}
+
+#home-list-last {
+	margin-bottom: 0;
+}
